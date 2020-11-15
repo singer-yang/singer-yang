@@ -6,6 +6,8 @@ I got my BS degree in Physics and Computer Science(minor) from University of Sci
 
 For more details, please visit our [lab's page.](https://vccimaging.org/People/heidriw/) 
 
+Contact: xinge.yang@kaust.edu.sa
+
 <!--
 **singer-yang/singer-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
