@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am now a MS/PhD student in Visual Computing Center(VCC), King Abdullah University of Science and Technology(KAUST).  
+
+I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
+
+For more details, please visit our [lab's page.](https://vccimaging.org/People/heidriw/) 
+
 <!--
 **singer-yang/singer-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
