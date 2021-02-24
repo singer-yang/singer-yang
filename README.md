@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am now a MS/PhD student in Visual Computing Center(VCC), King Abdullah University of Science and Technology(KAUST).  
+I am now a MS/PhD student at Visual Computing Center(VCC), CEMESE, King Abdullah University of Science and Technology(KAUST).  
 
 I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
 
