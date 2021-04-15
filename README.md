@@ -8,6 +8,9 @@ For more details, please visit our [lab's page.](https://vccimaging.org/People/h
 
 Contact: xinge.yang@kaust.edu.sa
 
+![Qingyong's github stats](https://github-readme-stats.vercel.app/api?username=QingyongHu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QingyongHu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **singer-yang/singer-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
