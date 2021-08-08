@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am now a MS/PhD student at Visual Computing Center(VCC), CEMESE, King Abdullah University of Science and Technology(KAUST). My research interests focus on differentiable rendering and differentiable lens design based on ray tracing.
+I am now a MS/PhD student at Visual Computing Center(VCC), CEMESE, King Abdullah University of Science and Technology(KAUST). 
 
-I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
+My research interests focus on **differentiable rendering** and **ray tracing based differentiable lens design**. 
 
-For more details, please visit our [lab's page.](https://vccimaging.org/People/heidriw/) 
+Before that, I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
+
+For more details, please visit our [group's homepage.](https://vccimaging.org/People/heidriw/) 
 
 Contact: xinge.yang@kaust.edu.sa
 
