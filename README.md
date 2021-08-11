@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am now a MS/PhD student at Visual Computing Center(VCC), CEMESE, King Abdullah University of Science and Technology(KAUST). 
+I am a MS/PhD student in [VCC Imaging group](https://vccimaging.org/People/heidriw/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by Prof. Wolfgang Heidrich.
 
-My research interests focus on **differentiable rendering** and **ray tracing based differentiable lens design**. 
+My research interests lie on **differentiable rendering** and **ray tracing based differentiable lens design**. 
 
-Before that, I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
-
-For more details, please visit our [group's homepage.](https://vccimaging.org/People/heidriw/) 
+Prior to coming to KAUST, I got my BS degree in Physics and Computer Science(minor) from University of Science and Technology of China(USTC).
 
 Contact: xinge.yang@kaust.edu.sa
 
