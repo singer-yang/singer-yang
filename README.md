@@ -2,7 +2,7 @@
 
 I am currently a MS/PhD student in [VCC Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/).
 
-My research interests lie on **ray tracing based differentiable lens design**, **differentiable rendering** and **End2End optimization**. I waste my spare time on photography, basketball and travelling.
+My research interests lie on **differentiable rendering**, **differentiable ray tracing** and **End2End lens design**. I waste my spare time on photography, basketball and travelling.
 
 Prior to this, I got BS degree in Physics and Computer Science(minor) at University of Science and Technology of China(USTC).
 
