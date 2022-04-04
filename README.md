@@ -6,7 +6,7 @@ I am currently a PhD student in [VCC Imaging group](https://vccimaging.org/) at 
 
 My research interests lie on [**differentiable rendering/optical design/computational imaging**]. We created a differentiable renderer for optical design, my current project is based on this. I’m open to collaborators on my projects, feel free to reach out! 
 
-In my free time, I waste my spare time on photography, basketball and travelling. You can also talk with me about these things.
+I am also interested in [quantitative trading/basketball/running/traveling/photography]. Let's talk if you have the same hobbies!
 
 Contact: xinge.yang@kaust.edu.sa
 
