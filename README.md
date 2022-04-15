@@ -4,7 +4,7 @@
 
 I am currently a PhD student in [VCC Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics(major) and Computer Science(minor) at University of Science and Technology of China(USTC).
 
-My research interests lie on [**differentiable rendering/optical design/computational imaging**]. We created a differentiable renderer for optical design, my current project is based on this. I’m open to collaborators on my projects, feel free to reach out! 
+My research interests lie on [**joint design of optics and algorithms/differentiable rendering**]. We created a differentiable renderer for optics and neural networks joint design, my current project is based on this. I’m open to collaborators on my projects, feel free to reach out! 
 
 I am also interested in [quantitative trading/basketball/running/traveling/photography]. Let's talk if you have the same hobbies!
 
