@@ -2,9 +2,9 @@
 
 **News**: I will attend Siggraph 2022 in Vancouver, let's talk if you are also there!
 
-I am currently a PhD student in [VCC Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics(major) and Computer Science(minor) at University of Science and Technology of China(USTC).
+I am currently a PhD student in [VCC Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics(major) and Computer Science(minor) at University of Science and Technology of China(USTC).
 
-My research interests lie on [**joint design of optics and algorithms/differentiable rendering**]. We created a differentiable renderer for optics and neural networks joint design, my current project is based on this. I’m open to collaborators on my projects, feel free to reach out! 
+You can find my [homepaer](https://singer-yang.github.io/), and [lab profile](https://vccimaging.org/People/xingeyang/). My research interests lie on [**co-design of optics and image processing**]. We created a differentiable renderer(DeepLens) for general and direct optics and neural networks co-design, my current project is based on this. I’m open to collaborators on my projects, feel free to reach out! 
 
 I am also interested in [quantitative trading/basketball/running/traveling/photography]. Let's talk if you have the same hobbies!
 
