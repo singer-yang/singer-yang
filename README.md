@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**News**: I will present our paper "Automatic Lens Design based-on Differentiable Ray-tracing"(oral) at COSI conference. Location: Hyatt Regency, Vancouvar. Time: 14:15-14:30, 14,July.
+**News**: I will attend Siggraph 2022 in Vancouver, let's talk if you are also there!
 
 I am currently a PhD student in [VCC Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST) CEMSE, advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics(major) and Computer Science(minor) at University of Science and Technology of China(USTC).
 
