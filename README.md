@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a PhD student in [VCC Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology(KAUST), advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics(major) and Computer Science(minor) at University of Science and Technology of China(USTC). You can also find me on my [homepage](https://singer-yang.github.io/), and [lab profile](https://vccimaging.org/People/xingeyang/).
+I am a PhD student in [VCC Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology (KAUST), advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics (major) and Computer Science (minor) at University of Science and Technology of China (USTC). You can also find me on my [homepage](https://singer-yang.github.io/), and [lab profile](https://vccimaging.org/People/xingeyang/).
 
-My research interests lie on **co-design of optics and image processing**. We created a differentiable renderer for the general and direct optics and neural networks co-design. I’m open to collaborators on my projects, feel free to reach out if you are interested! I am also interested in [quantitative trading/basketball/running/traveling/photography].
+My research interests lie on **co-design of optics and image processing**. We created a differentiable ray tracer **DeepLens** that can simulate sensor captured images by ray-tracing rendering, and directly optimize optical lenses for better output. Besides ray optics, I am also working on differentiable wave optics simulation. I’m open to discussion and collaboration, feel free to reach out if you are interested! I am also interested in [quantitative trading/basketball/running/traveling/photography].
 
 Contact: xinge.yang@kaust.edu.sa
 
