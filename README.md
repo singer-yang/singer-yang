@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a third-year Ms/PhD student in [VCC Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology (KAUST), advised by [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics (major) and Computer Science (minor) at University of Science and Technology of China (USTC). You can also find me on my [homepage](https://singer-yang.github.io/), and [lab profile](https://vccimaging.org/People/xingeyang/).
+I am now at Meta Reality Lab (Redmond, WA) for an internship. We can talk in person if you happen to visit.
 
-My research interests lie on **co-design of optics and image processing**, especially its applications in 3D tasks. We created a differentiable ray tracer **DeepLens** that can simulate camera sensor image by ray-tracing rendering, and directly optimize sensor image for optical design. Compared with others (including Zemax), DeepLens can: 1) automatically design a lens from scratch. 2) handle 3D scenes and complex lighting. With DeepLens, we can do lots of applications!
+I am a PhD student in [VCC Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology (KAUST), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Prior to this, I got BS degree in Physics (major) and Computer Science (minor) at University of Science and Technology of China (USTC). More details on my [homepage](https://singer-yang.github.io/), and [lab profile](https://vccimaging.org/People/xingeyang/).
 
-I’m open to discussion and collaboration, feel free to reach out if you are interested! I am also interested in [quantitative trading/basketball/running/traveling/photography].
+My research interests lie on **co-design of optics and image processing** and **differentiable imaging process simulation**, and their applications in 3D tasks. We created an awesome differentiable ray tracer **DeepLens** for general end-to-end optical design. I’m open to discussion and collaboration, feel free to reach out if you are interested! I am also interested in [quantitative trading/basketball/running/traveling/photography].
 
 Contact: xinge.yang@kaust.edu.sa
 
