@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am an Ms/PhD student in [Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology (KAUST), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). 
+I am a PhD student in [Computational Imaging group](https://vccimaging.org/) at King Abdullah University of Science and Technology (KAUST), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). 
 
 Education:
-- 2022 - now PhD in Computer Science, KAUST.
-- 2020 - 2022 MS in Computer Science, KAUST.
-- 2016 - 2020 BS in Physics (major) and Computer Science (minor), USTC.
+- 2022 - now, PhD in Computer Science, KAUST.
+- 2020 - 2022, MS in Computer Science, KAUST.
+- 2016 - 2020, BS in Physics (major) and Computer Science (minor), USTC.
 
 Research:
 - Deep learning for optical design.
